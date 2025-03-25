@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Screenshot 2024-12-04 145245.png</filename>
+	<path>C:\Projects\darkerdb.com\train\Screenshot 2024-12-04 145245.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3440</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tooltip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2986</xmin>
+			<ymin>393</ymin>
+			<xmax>3429</xmax>
+			<ymax>1121</ymax>
+		</bndbox>
+	</object>
+</annotation>
